@@ -2,13 +2,20 @@
 
 Lazy software engineering student, hardcore Java user, unapologetic Linux advocate.
 
-## Skills
-- **Languages & Frameworks:** Java, Spring Boot, React, Django, FastAPI
+---
 
-## About Me
-- Currently studying software engineering  
-- Always eager to learn new technologies  
-- Building projects to sharpen my skills
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kei077&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=kei077&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kei077&layout=compact&theme=tokyonight" width="50%" />
+</p>
+
+---
 
 ## Hobbies
 - Weaseling (ask me about it!)
@@ -18,13 +25,3 @@ Lazy software engineering student, hardcore Java user, unapologetic Linux advoca
 - **LinkedIn:** [Kawtar Taïk](https://www.linkedin.com/in/kawtar-ta%C3%AFk-7544a11b9/)
 
 > “Talk is cheap. Show me the code.” – Linus Torvalds
-
----
-
-## GitHub Stats
-
-![Kawtar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kei077&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kei077&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=kei077&theme=tokyonight)
