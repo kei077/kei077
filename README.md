@@ -8,7 +8,6 @@ Lazy software engineering student, hardcore Java user, unapologetic Linux advoca
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kei077&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=kei077&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
