@@ -23,8 +23,8 @@ Lazy software engineering student, hardcore Java user, unapologetic Linux advoca
 
 ## GitHub Stats
 
-![Kawtar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kawtartaik&show_icons=true&theme=tokyonight)
+![Kawtar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kei077&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kawtartaik&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kei077&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kawtartaik&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=kei077&theme=tokyonight)
