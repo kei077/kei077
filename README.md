@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello Hi SalamuAlaikum ! I'm Kawtar Taïk 
 
-<!--
-**kei077/kei077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lazy software engineering student, hardcore Java user, unapologetic Linux advocate.
 
-Here are some ideas to get you started:
+## 💻 Skills
+- **Languages & Frameworks:** Java, Spring Boot, React, Django, FastAPI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me
+- Currently studying software engineering
+- Always eager to learn new technologies
+- Building projects to sharpen my skills
+
+## 🕹️ Hobbies
+- Weaseling (ask me about it!)
+
+## 📫 Let's connect (only contact me if you have snacks to offer)! 
+- **Email:** kawtartaik123@gmail.com
+- **LinkedIn:** [Kawtar Taïk](https://www.linkedin.com/in/kawtar-ta%C3%AFk-7544a11b9/)
+  
